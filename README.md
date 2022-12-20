@@ -2,8 +2,8 @@
 
 none yet.
 
-<kbd><img src="https://github.com/Gagniuc/GHDNA-hash-function/blob/main/img/1.png?raw=true" /></kbd>
-<kbd><img src="https://github.com/Gagniuc/GHDNA-hash-function/blob/main/img/2.png?raw=true" /></kbd>
+<kbd><img src="https://github.com/Gagniuc/GCluster/blob/main/img/GCLUSTER%20V1.png?raw=true" /></kbd>
+<kbd><img src="https://github.com/Gagniuc/GCluster/blob/main/img/GCLUSTER%20V2.png?raw=true" /></kbd>
 
 # References
 
