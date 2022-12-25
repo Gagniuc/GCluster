@@ -1,9 +1,8 @@
 # GCluster
 
-The current VB6 application is an experimental detector that uses a dynamic method named "in-depth analysis" to detect and interpret CpG islands, CpG clusters and other dinucleotide structures. In-depth analysis is made through repeated tests with different dinucleotide thresholds. <kbd>GCluster</kbd> was tested with randomly generated DNA sequences, multiple genes from <i>Homo sapiens</i> and several types of viral genomes. The application comes in two versions, namely GCluster v1.0 and GCluster v2.0. Both versions of the implementation provide the main signal and detect the peaks existing on a given region of the signal to highlight which of these regional peaks form clusters. Also, the second version uses a graphical method to present the results found above the DNA sequence.
+The current VB6 application is an experimental detector that uses a dynamic method named "in-depth analysis" to find and interpret CpG islands, CpG clusters and other dinucleotide structures. In-depth analysis is made through repeated tests with different dinucleotide thresholds. <kbd>GCluster</kbd> was tested with randomly generated DNA sequences, multiple genes from <i>Homo sapiens</i> and several types of viral genomes. The application comes in two versions, namely GCluster v1.0 and GCluster v2.0. Both versions of the implementation provide the main signal and detect the peaks existing on a given region of the signal to highlight which of these regional peaks form clusters. Also, the second version uses a graphical method to present the results found above the DNA sequence.
 
 # GCluster v 1.0
-
 
 In the first version the signal and the results following the analysis are presented both in 2D and 1D. Notice that version one detects islands and island clusters by taking into consideration the local C+G content.
 
