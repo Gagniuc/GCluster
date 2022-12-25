@@ -1,12 +1,16 @@
 # GCluster
 
-The field of bioinformatics is an essential asset for modern biology. In recent years, after the appearance of GWS (Genome Wide Scan) studies, powerful bioinformatics methods have been developed. In order to understand the genetic basis of various diseases, especially polygenic diseases (diabetes, obesity and vascular disease), we have implemented a dynamic method named "in-depth analysis" to detect and interpret CpG islands, CpG clusters and other dinucleotide structures. In-depth analysis is made through repeated tests with different dinucleotide thresholds. GCLUSTER is our design for "in-depth analysis". We tested GCLUSTER with randomly generated DNA sequences, multiple genes from Homo sapiens and several types of viral genomes.
+The current VB6 application is an experimental detector that uses a dynamic method named "in-depth analysis" to detect and interpret CpG islands, CpG clusters and other dinucleotide structures. In-depth analysis is made through repeated tests with different dinucleotide thresholds. <kbd>GCluster</kbd> was tested with randomly generated DNA sequences, multiple genes from <i>Homo sapiens</i> and several types of viral genomes. The application comes in two versions, namely GCluster v1.0 and GCluster v2.0. Both versions of the implementation provide the main signal and detect the peaks existing on a given region of the signal to highlight which of these regional peaks form clusters. Also, the second version uses a graphical method to present the results found above the DNA sequence.
 
 # GCluster v 1.0
+
+Version 1 detects islands and island clusters by taking into consideration the local C+G content.
 
 <kbd><img src="https://github.com/Gagniuc/GCluster/blob/main/img/GCLUSTER%20V1.png?raw=true" /></kbd>
 
 # GCluster v 2.0
+
+Version 2 detects islands and island clusters both by using the C+G content and dinucleotide combinations.
 
 <kbd><img src="https://github.com/Gagniuc/GCluster/blob/main/img/GCLUSTER%20V2.png?raw=true" /></kbd>
 
