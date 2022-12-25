@@ -4,19 +4,20 @@ The current VB6 application is an experimental detector that uses a dynamic meth
 
 # GCluster v 1.0
 
-Version 1 detects islands and island clusters by taking into consideration the local C+G content.
+
+In the first version the signal and the results following the analysis are presented both in 2D and 1D. Notice that version one detects islands and island clusters by taking into consideration the local C+G content.
 
 <kbd><img src="https://github.com/Gagniuc/GCluster/blob/main/img/GCLUSTER%20V1.png?raw=true" /></kbd>
 
 # GCluster v 2.0
 
-Version 2 detects islands and island clusters both by using the C+G content and dinucleotide combinations.
+In the second version the signal and the results following the analysis are again presented both in 2D and 1D. However, version two brings a third chart by which an interpretation can be made regarding the content and the dinucleotide frequencies. Notice that version two detects islands and island clusters both by using the C+G content and the frequencies of dinucleotide combinations.
 
 <kbd><img src="https://github.com/Gagniuc/GCluster/blob/main/img/GCLUSTER%20V2.png?raw=true" /></kbd>
 
 # Example results
 
-The result from below points out the peaks in the signal at every point between 20% to 40% (please see the meaning in the PDF file).
+The result from below points out the peaks in the signal at every integer between 20% to 40% (please see the meaning in the PDF file).
 
 ~~~
 CG island - number [1] starts at position 70b
