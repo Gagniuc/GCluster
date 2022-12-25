@@ -16,7 +16,7 @@ Version 2 detects islands and island clusters both by using the C+G content and 
 
 # Example results
 
-The result below shows a result for each step, from 20% to 40% (please see the meaning in the PDF file)
+The result from below points out the peaks in the signal at every point between 20% to 40% (please see the meaning in the PDF file).
 
 ~~~
 CG island - number [1] starts at position 70b
