@@ -11,7 +11,7 @@ In the first version the signal and the results following the analysis are prese
 
 # GCluster v 2.0
 
-In the second version the signal and the results following the analysis are again presented both in 2D and 1D. However, version two brings a third chart by which an interpretation can be made regarding the content and the dinucleotide frequencies. Notice that version two detects islands and island clusters both by using the C+G content and the frequencies of dinucleotide combinations.
+In the second version the signal and the results following the analysis are again presented both in 2D and 1D. However, version two brings a third chart by which an interpretation can be made regarding the content and the dinucleotide frequencies. In other words, the third chart shows the number of detected islands versus the number of island clusters. Notice that version two detects islands and island clusters both by using the C+G content and the frequencies of dinucleotide combinations.
 
 <kbd><img src="https://github.com/Gagniuc/GCluster/blob/main/img/GCLUSTER%20V2.png?raw=true" /></kbd>
 
