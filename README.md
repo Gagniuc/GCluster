@@ -15,6 +15,9 @@ Version 2 detects islands and island clusters both by using the C+G content and 
 <kbd><img src="https://github.com/Gagniuc/GCluster/blob/main/img/GCLUSTER%20V2.png?raw=true" /></kbd>
 
 # Example results
+
+The result below shows a result for each step, from 20% to 40% (please see the meaning in the PDF file)
+
 ~~~
 CG island - number [1] starts at position 70b
 CG island - number [2] starts at position 76b
